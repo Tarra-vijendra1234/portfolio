@@ -436,6 +436,7 @@
     align-items: center;
     gap: 10px;
     cursor: pointer;
+    text-decoration: none;
 }
 .insta > p {
     margin-bottom: 3px;
@@ -452,6 +453,7 @@
     align-items: center;
     gap: 10px;
     cursor: pointer;
+    text-decoration: none;
 }
 .email > p {
     margin-bottom: 3px;
@@ -469,6 +471,7 @@
     align-items: center;
     gap: 10px;
     cursor: pointer;
+    text-decoration: none;
 
 }
 .linkdin > p {
@@ -486,6 +489,7 @@
     align-items: center;
     gap: 10px;
     cursor: pointer;
+    text-decoration: none;
 }
 .whats > p {
     margin-bottom: 3px;
@@ -502,6 +506,7 @@
     align-items: center;
     gap: 10px;
     cursor: pointer;
+    text-decoration: none;
 }
 .twiter > p {
     margin-bottom: 3px;
